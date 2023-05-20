@@ -1,4 +1,4 @@
-
+PRUEBA CAMBIO 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Lab | Discrete Probability Distributions
